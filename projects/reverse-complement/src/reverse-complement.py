@@ -6,10 +6,10 @@ VERSION
     1.0
     
 AUTHOR
-	Shirley, Heladia, Alfredo	
+	Shirley, Heladia, Alfredo, Victor, Camila	
     
 DESCRIPTION
-	Make the reverse complement of DNA sequence
+	Make the reverse complement of DNA sequence.
     
 CATEGORY
 	Genomic Sequence
