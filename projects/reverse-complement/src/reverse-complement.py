@@ -3,7 +3,7 @@ NAME
 	reverse-complement.py
     
 VERSION
-    3.0
+    3.1
     
 AUTHOR
 	Shirley
